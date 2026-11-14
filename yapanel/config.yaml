@@ -1,0 +1,11 @@
+name: "YaPanel Web"
+version: "0.3.1"
+slug: "yapanel"
+description: "Веб-панель Яндекс Станции (dimap/yapanel-web)"
+arch:
+  - amd64
+  - aarch64
+startup: services
+boot: auto
+host_network: true
+webui: "http://[HOST]:8765"

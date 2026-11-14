@@ -1,0 +1,5 @@
+FROM ghcr.io/dimap/yapanel-web:latest
+ENV ADB_SERIAL="192.168.1.20"
+ENV PANEL_HOST="0.0.0.0"
+ENV PANEL_PORT="8765"
+ENV PANEL_HTTPS_PORT="0"
