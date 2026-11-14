@@ -1,5 +1,5 @@
 name: "YaPanel Web"
-version: "0.3.1"
+version: "0.3.2"
 slug: "yapanel"
 description: "Веб-панель Яндекс Станции (dimap/yapanel-web)"
 arch:
